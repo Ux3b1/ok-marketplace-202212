@@ -7,6 +7,6 @@ class MainTest {
 
     @Test
     fun mainTest() {
-        assertEquals(3, 1 + 2)
+        assertEquals(3, 2 + 1)
     }
 }
